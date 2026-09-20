@@ -6,26 +6,22 @@
   <img alt="Jiabin Zhang — Data, models &amp; useful software." src="assets/header-light.svg" width="1000">
 </picture>
 
-I build reproducible analyses and interactive applications, with projects in **machine learning**, **financial risk**, and **community resilience**. Based in London.
+### Selected Projects
 
-### Selected work
+[**Portfolio Risk Analytics Engine**](https://github.com/jiabin2001/portfolio-risk-analytics)\
+Market-risk modelling with ARMA–GARCH marginals, copula dependence, Monte Carlo VaR/Expected Shortfall, and rolling out-of-sample backtesting.
 
-**[Fire-spread prediction](https://github.com/jiabin2001/england-non-domestic-fire-ml)**<br>
-A reproducible study of fire-spread prediction in England's non-domestic buildings, with temporal validation.<br>
-<sub>Python · pandas · scikit-learn · XGBoost</sub>
+[**England Fire-Spread Machine Learning**](https://github.com/jiabin2001/england-non-domestic-fire-ml)\
+Temporal validation of Logistic Regression, Random Forest and XGBoost on more than 200,000 non-domestic building-fire incidents in England.
 
-**[Portfolio risk analytics](https://github.com/jiabin2001/portfolio-risk-analytics)**<br>
-Market-risk modelling with GARCH, copulas and Monte Carlo simulation, evaluated through rolling VaR and Expected Shortfall backtests.<br>
-<sub>R · rugarch · VineCopula · Quarto</sub>
+[**London Resilience Demo**](https://github.com/jiabin2001/london-resilience-demo)\
+Interactive TypeScript/React prototype for community capability, venue-status verification, support coordination and resilience learning workflows.
 
-**[London Resilience](https://github.com/jiabin2001/LondonResilience-Demo)**<br>
-An interactive prototype for community venue updates, verification and support coordination, using synthetic demonstration data.<br>
-<sub>TypeScript · React · Tailwind CSS · Leaflet</sub>
+[**RWA Portfolio Manager**](https://github.com/jiabin2001/rwa-portfolio-manager)\
+Hackathon prototype for risk management of tokenised real-world assets using agent-based signals, portfolio constraints and auditable execution.
 
-**[Tokenized-asset risk monitoring](https://github.com/jiabin2001/2026-ETH-x-Oxford-Hackathon)**<br>
-A hackathon prototype connecting a risk dashboard, agent-based middleware and auditable decision flows.<br>
-<sub>TypeScript · React · Python · Solidity · ETH × Oxford Hackathon 2026</sub>
+### Tools
+
+Python · R · SQL · TypeScript · Git · GIS
 
 ---
-
-<sub>[Explore all repositories](https://github.com/jiabin2001?tab=repositories)</sub>
