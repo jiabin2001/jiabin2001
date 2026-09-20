@@ -19,9 +19,3 @@ Interactive TypeScript/React prototype for community capability, venue-status ve
 
 [**RWA Portfolio Manager**](https://github.com/jiabin2001/rwa-portfolio-manager)\
 Hackathon prototype for risk management of tokenised real-world assets using agent-based signals, portfolio constraints and auditable execution.
-
-### Tools
-
-Python · R · SQL · TypeScript · Git · GIS
-
----
