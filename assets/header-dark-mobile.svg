@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="190" viewBox="0 0 520 190" role="img" aria-labelledby="title description">
+  <title id="title">Jiabin Zhang</title>
+  <desc id="description">Data, models and useful software.</desc>
+  <rect width="520" height="190" rx="8" fill="#192325"/>
+  <path d="M28 34H63" stroke="#83c9b8" stroke-width="3"/>
+  <text x="26" y="100" fill="#eeede5" font-family="Georgia, 'Times New Roman', serif" font-size="52" letter-spacing="-1.5">Jiabin Zhang</text>
+  <text x="28" y="143" fill="#b7c4be" font-family="Georgia, 'Times New Roman', serif" font-size="21">Data, models &amp; useful software.</text>
+  <g fill="none" stroke-linejoin="round">
+    <path d="M411 41V104M443 41V104M475 41V104M403 49H483M403 74H483M403 99H483" stroke="#30403f"/>
+    <path d="M411 94L443 72L459 81L475 49" stroke="#83c9b8" stroke-width="2"/>
+    <circle cx="475" cy="49" r="3.5" fill="#83c9b8"/>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="218" viewBox="0 0 1000 218" role="img" aria-labelledby="title description">
+  <title id="title">Jiabin Zhang</title>
+  <desc id="description">Data, models and useful software. A restrained editorial header with a geometric data motif.</desc>
+  <rect width="1000" height="218" rx="8" fill="#192325"/>
+  <path d="M40 38H82" stroke="#83c9b8" stroke-width="3"/>
+  <text x="40" y="116" fill="#eeede5" font-family="Georgia, 'Times New Roman', serif" font-size="66" letter-spacing="-2">Jiabin Zhang</text>
+  <text x="43" y="162" fill="#b7c4be" font-family="Georgia, 'Times New Roman', serif" font-size="23">Data, models &amp; useful software.</text>
+  <g transform="translate(725 41)" fill="none">
+    <path d="M0 0V136M48 0V136M96 0V136M144 0V136M192 0V136M0 8H192M0 48H192M0 88H192M0 128H192" stroke="#30403f" stroke-width="1"/>
+    <path d="M0 112L48 86L96 99L144 48L192 20" stroke="#577d72" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M0 128L48 103L96 67L144 81L192 8" stroke="#83c9b8" stroke-width="2.5" stroke-linejoin="round"/>
+    <g fill="#192325" stroke="#83c9b8" stroke-width="2.5">
+      <circle cx="0" cy="128" r="4"/>
+      <circle cx="48" cy="103" r="4"/>
+      <circle cx="96" cy="67" r="4"/>
+      <circle cx="144" cy="81" r="4"/>
+      <circle cx="192" cy="8" r="5" fill="#83c9b8"/>
+    </g>
+  </g>
+</svg>
